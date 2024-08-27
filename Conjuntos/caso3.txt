@@ -1,0 +1,10 @@
+3
+C
+13, 52, 377, 42
+lima, laranja
+U
+22, Abacate, Cebola, 366
+A, C, D, 273
+I
+3, 4, 5, 7, A, B, R
+1, B, C, D, 1

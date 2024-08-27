@@ -1,0 +1,7 @@
+2
+U
+561, 5, 87, batata
+1, banana, 3, 4122
+I
+112, melancia, 99, 4, 59
+99, 5, melancia, 59
